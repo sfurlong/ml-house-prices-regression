@@ -1,0 +1,9 @@
+numpy
+pandas
+sqlalchemy
+pymysql
+matplotlib
+sklearn
+mxnet
+d2l
+jupyterlab
